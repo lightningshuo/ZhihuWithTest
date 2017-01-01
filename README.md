@@ -1,13 +1,9 @@
-#NotepadTestDemo
-Android UI test demo using Robotium framework based on the official release of RobotiumTech/robotium
+#An app named ZhihuLite which simply provides Zhihu Daily news.In this project ,it also contains testcases by using Robotium Framework to test it if it can work well.(More functions and testcases with ZhihuLite keeps being updating ^_^)
 
-Notice: This project is only for learning Robotium, if this project has infringed your legal right ,just contact me and I'll delete this repository.
+Testcases shows how this app looks like:
 
-FirstTestcase/addnote
-![image](https://github.com/ButBueatiful/dotvim/raw/master/screenshots/vim-screenshot.jpg)
+####1 Page scrolling  test
+![image](https://github.com/lightningshuo/ZhihuWithTest/blob/master/testScroll.gif)
 
-SecondTestcase/editnote
-
-ThirdTestcase/deletenote
-
-FourthTestcase/directPaste
+####2 going the ListView
+![image](https://github.com/lightningshuo/ZhihuWithTest/blob/master/testListView.gif)
