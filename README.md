@@ -5,8 +5,8 @@
 ![image](https://github.com/lightningshuo/ZhihuWithTest/blob/master/appinfo.jpg)
 
 #### Testcases running：
-#####1 Page scrolling  test
+##### 1 Page scrolling  test
 ![image](https://github.com/lightningshuo/ZhihuWithTest/blob/master/testScroll.gif)
 
-#####2 going the ListView
+##### 2 going the ListView
 ![image](https://github.com/lightningshuo/ZhihuWithTest/blob/master/testListView.gif)
